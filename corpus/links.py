@@ -1,5 +1,6 @@
-import markdown
 import re
+
+import markdown
 
 
 def extract_links(string):
