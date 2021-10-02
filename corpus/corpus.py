@@ -1,7 +1,6 @@
 from pathlib import Path
 
-# from . import links
-import links
+from modules import links
 
 
 def parse_files(all_files):
