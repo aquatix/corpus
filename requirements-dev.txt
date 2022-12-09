@@ -12,7 +12,7 @@ blessings==1.7
     # via curtsies
 bpython==0.21
     # via -r requirements-dev.in
-certifi==2021.5.30
+certifi==2022.12.7
     # via requests
 charset-normalizer==2.0.6
     # via requests
@@ -71,10 +71,6 @@ six==1.16.0
 toml==0.10.2
     # via
     #   autopep8
-    #   pylint
-typing-extensions==3.10.0.2
-    # via
-    #   astroid
     #   pylint
 urllib3==1.26.7
     # via requests
